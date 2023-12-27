@@ -943,10 +943,10 @@ body ul, body li {
     height: 300px;
   }
   .countdownSection .container .counterWrapper p {
-    font-size: 70px;
+    font-size: 100px;
   }
   .countdownSection .container .counterWrapper .countdown {
-    margin: 20px 0;
+    margin: 100px 0;
   }
   .countdownSection .container .counterWrapper .countdown .countdownProp {
     width: 120px;
