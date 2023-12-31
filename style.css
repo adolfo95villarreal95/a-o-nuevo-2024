@@ -922,7 +922,7 @@ body ul, body li {
   margin: 10px;
   font-size: 140px;
   line-height: 150px;
-  background-image: url(https://mejorconsalud.as.com/wp-content/uploads/2021/12/cielo-estrellado-negro-768x512.jpg);
+  background-image: url(https://www.shutterstock.com/image-vector/abstract-background-wavy-lines-red-600nw-2251587683.jpg);
   /* background: black; */
   background-clip: text;
   -webkit-background-clip: text;
@@ -937,7 +937,7 @@ body ul, body li {
   content: attr(date-count);
   width: 100%;
   font-size: 30px;
-  -webkit-text-fill-color: #0a0379;
+  -webkit-text-fill-color: #ffffff;
   line-height: normal;
   font-family: fantasy;
 }
@@ -957,14 +957,6 @@ body ul, body li {
     width: 120px;
     font-size: 100px;
     line-height: 80px;
-
-
-
-    background-clip: text;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    font-size: 100px;
-    font-family: fantasy;
   }
 }
 @media only screen and (max-width: 500px) {
