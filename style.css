@@ -115,6 +115,7 @@ body {
 
   background-size: cover; /* Cubre todo el contenedor, recortando si es necesario */
   background-position: center; /* Centra la imagen */
+  
 }
 body * {
   font-family: sans-serif;
@@ -892,13 +893,16 @@ body ul, body li {
   z-index: 1;
 }
 .countdownSection .container .counterWrapper p {
-  background-image: url(https://www.fiftysounds.com/images/graphics/yellow-low-poly-background-410.jpg);
+  background-image: url(https://us.123rf.com/450wm/marisha5/marisha51906/marisha5190600223/124741431-textura-de-fondo-amarillo-abstracto.jpg?ver=6);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   font-size: 100px;
-  font-family: monospace;
+  font-family: fantasy;
 }
+
+
+
 .countdownSection .container .counterWrapper .countdown {
   display: flex;
   flex-direction: row;
@@ -919,10 +923,11 @@ body ul, body li {
   font-size: 140px;
   line-height: 150px;
   background-image: url(https://biblioteca.acropolis.org/wp-content/uploads/2014/12/rojo.png);
+  /* background: black; */
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  text-shadow: 0 0 100px #fff;
+  /* text-shadow: 0 0 100px #fff; */
   font-family: fantasy;
 }
 .countdownSection .container .counterWrapper .countdown .countdownProp:not(:first-child):before {
@@ -971,5 +976,13 @@ body ul, body li {
     display: block;
   }
 }
+
+
+
+
+
+
+
+
 
 
