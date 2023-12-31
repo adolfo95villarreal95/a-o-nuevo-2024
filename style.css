@@ -956,7 +956,8 @@ body ul, body li {
   .countdownSection .container .counterWrapper .countdown .countdownProp {
     width: 120px;
     font-size: 100px;
-    line-height: 80px;
+    /* aqui era 80 */
+    line-height: 100px;
   }
 }
 @media only screen and (max-width: 500px) {
