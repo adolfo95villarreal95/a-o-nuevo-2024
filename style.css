@@ -922,7 +922,7 @@ body ul, body li {
   margin: 10px;
   font-size: 140px;
   line-height: 150px;
-  background-image: url(https://www.shutterstock.com/image-vector/abstract-background-wavy-lines-red-600nw-2251587683.jpg);
+  background-image: url(https://mejorconsalud.as.com/wp-content/uploads/2021/12/cielo-estrellado-negro-768x512.jpg);
   /* background: black; */
   background-clip: text;
   -webkit-background-clip: text;
@@ -936,8 +936,8 @@ body ul, body li {
 .countdownSection .container .counterWrapper .countdown .countdownProp:after {
   content: attr(date-count);
   width: 100%;
-  font-size: 30px;
-  -webkit-text-fill-color: #ffffff;
+  font-size: 40px;
+  -webkit-text-fill-color: rgb(255, 255, 255);
   line-height: normal;
   font-family: fantasy;
 }
