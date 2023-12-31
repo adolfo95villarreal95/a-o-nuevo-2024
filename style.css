@@ -111,11 +111,11 @@ body {
   /* color: #fff; */
   margin: 0 auto;
   /* background-color: #00FF00; */
-  background-image: url("https://ca-times.brightspotcdn.com/dims4/default/b394c2b/2147483647/strip/true/crop/3991x2660+885+0/resize/2000x1333!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa9%2F2d%2F303b25b347d7919d5c9346acd016%2Fla-me-4th-of-july-whittier-rr-20220704-1.jpg");
+  background-image: url("https://c.wallhere.com/photos/4a/6b/show_new_york_colors_festival_river_spring_fireworks-916281.jpg!d");
 
-  background-size: cover; /* Cubre todo el contenedor, recortando si es necesario */
-  background-position: center; /* Centra la imagen */
-  
+  background-size: cover; /*Cubre todo el contenedor, recortando si es necesario*/
+  background-position: center; /*Centra la imagen*/
+
 }
 body * {
   font-family: sans-serif;
@@ -893,7 +893,7 @@ body ul, body li {
   z-index: 1;
 }
 .countdownSection .container .counterWrapper p {
-  background-image: url(https://us.123rf.com/450wm/marisha5/marisha51906/marisha5190600223/124741431-textura-de-fondo-amarillo-abstracto.jpg?ver=6);
+  background-image: url(data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgICAgHBwgIBwcHBwoHBwcHBw8ICQcKFREWFiARHxMYHCggGCYlGx8fITEhJSkrLi4uFx8zODMsNygtLisBCgoKDQ0NDg0NDzcZFRkrKysrLSsrLSsrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIAK4BIgMBIgACEQEDEQH/xAAWAAEBAQAAAAAAAAAAAAAAAAAAAQb/xAAVEAEBAAAAAAAAAAAAAAAAAAAAEf/EABcBAQEBAQAAAAAAAAAAAAAAAAABBwX/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAwDAQACEQMRAD8A3gDLnfAAAAAAAFAAAAQRQAQBQAAAAAABQAABAAAAAAAAAAAAAAAAUABAEBUAAAAAAAAAAAFEUAAAAUAQAAAAAAAAAAAFAAQAAQAAAAFAAQAAAFAEAAFAAAAAFAEAAAAAAAAABQAEEVAVBQQVAAFQAAAAAAAFAEBUUEUAABQBAAAAAAAAUAAABAAAAAAABQRQEFBEFBUAAAQFAAAAAUAQAAAAAAAFAAAAQAAAAAAAAEVQAAAQQUBAUEUAAAABQBAAAAAAAAUAAABAAAAAAAAEVFAEAUAAAAAUAEAAABQAAAAAABAAUAAAAAAABAAAAAAEFAAAAAABQAAAAAAAAAAAAAAAAEBRARRAFEUAEBRBRRAKogFUQQqiAKgAogCiAKIAoIKoAAiggAgACoAAAAAAAAAACoAAAAAAAIoAABAAAFEAAAAAVFBBUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABUAAVAFRQf//Z);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -922,7 +922,7 @@ body ul, body li {
   margin: 10px;
   font-size: 140px;
   line-height: 150px;
-  background-image: url(https://biblioteca.acropolis.org/wp-content/uploads/2014/12/rojo.png);
+  background-image: url(https://mejorconsalud.as.com/wp-content/uploads/2021/12/cielo-estrellado-negro-768x512.jpg);
   /* background: black; */
   background-clip: text;
   -webkit-background-clip: text;
